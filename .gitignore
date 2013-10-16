@@ -1,0 +1,10 @@
+/bin/
+/lib/
+/release/
+bin/
+obj/
+_ReSharper.*/
+*.suo
+*.*proj.user
+*.*.user
+*DotSettings.user
